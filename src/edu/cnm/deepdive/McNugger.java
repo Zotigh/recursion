@@ -2,7 +2,7 @@ package edu.cnm.deepdive;
 
 import static javax.management.Query.value;
 
-public class McNugget {
+public class McNugger {
 
   private static final int[] PACK_SIZES = {200, 95, 62};
 
